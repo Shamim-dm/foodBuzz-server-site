@@ -4,48 +4,48 @@
       "id": "1",
       "name": "CZN Burak",
       "experience_years": 12,
-      "recipes_numbers": 75,
+      "recipes_numbers": 44,
       "likes": 2000 ,
       "photo_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-p8OE4EhP3AoPXLZjTa2NBqRpPznQocF1mryqUz-Mm87teHmE",
       "description" : "Burak Özdemir, known as CZN Burak, is a Turkish chef and restaurateur CZN, Özdemir's nickname, originates from a frequent mispronunciation of the Cinzano, the name of his father's textile shop in Laleli.",
       "recipes" :[
         {
           "id": 1,
-          "chef-name": "CZN Burak",
-          "recipes-name": "Kırmızı",
+          "chef_name": "CZN Burak",
+          "recipes_name": "Kırmızı",
           "experience_years": 12,
           "recipes_numbers": 75,
           "rating": 4.5,
           "likes": 2000 ,
           "photo_url": "https://menu.cznburak.com/img/menu_items/menu_item_151443.jpg",
           "cooking":["dry heat cooking", "moist heat cooking", "combination cooking", "Frying"],
-          " ingredients": ["Avocado", "skinless chicken", "garam masala", "thai chili", " potatoes," ]
+          "ingredients": ["Avocado", "skinless chicken", "garam masala", "thai chili", " potatoes," ]
         
          
         },
         {
           "id": 2,
-          "chef-name": "CZN Burak",
-          "recipes-name": "Mevsim",
+          "chef_name": "CZN Burak",
+          "recipes_name": "Mevsim",
           "experience_years": 10,
           "recipes_numbers": 75,
           "rating": 4.4,
           "likes": 1640 ,
           "photo_url": "https://menu.cznburak.com/img/menu_items/menu_item_615431.jpg",
           "cooking":["Grilling", "Sautéing", "combination cooking", "Frying"],
-          " ingredients": [" potatoes","tomato juice", " Boneless chicken breast", " cinnamon","smoked paprika" ]
+          "ingredients": [" potatoes","tomato juice", " Boneless chicken breast", " cinnamon","smoked paprika" ]
         },
         {
           "id": 3,
-          "chef-name": "CZN Burak",
-          "recipes-name": "CZNBURAK ",
+          "chef_name": "CZN Burak",
+          "recipes_name": "CZNBURAK ",
           "experience_years": 8,
           "recipes_numbers": 75,
           "rating": 4.3,
           "likes": 1153 ,
           "photo_url": "https://menu.cznburak.com/img/menu_items/menu_item_977316.jpg",
           "cooking":["Stir frying or pan frying  ", "moist heat cooking", "combination cooking", "Frying"],
-          " ingredients": ["poppy seeds", " Coconut milk", "curry", "star anise","olive oil" ]
+          "ingredients": ["poppy seeds", " Coconut milk", "curry", "star anise","olive oil" ]
          
         }
 
@@ -64,41 +64,41 @@
       "recipes" :[
         {
           "id": 1,
-          "chef-name": "Salt Bae",
-          "recipes-name": "Kırmızı",
+          "chef_name": "Salt Bae",
+          "recipes_name": "Kırmızı",
           "experience_years": 12,
           "recipes_numbers": 75,
           "rating": 4.5,
           "likes": 2000 ,
           "photo_url": "https://menu.cznburak.com/img/menu_items/menu_item_151443.jpg",
           "cooking":["dry heat cooking", "moist heat cooking", "combination cooking", "Frying"],
-          " ingredients": ["Avocado", "skinless chicken", "garam masala", "thai chili", " potatoes," ]
+          "ingredients": ["Avocado", "skinless chicken", "garam masala", "thai chili", " potatoes," ]
         
          
         },
         {
           "id": 2,
-          "chef-name": "Salt Bae",
-          "recipes-name": "Mevsim",
+          "chef_name": "Salt Bae",
+          "recipes_name": "Mevsim",
           "experience_years": 10,
           "recipes_numbers": 75,
           "rating": 4.4,
           "likes": 1640 ,
           "photo_url": "https://menu.cznburak.com/img/menu_items/menu_item_615431.jpg",
           "cooking":["Grilling", "Sautéing", "combination cooking", "Frying"],
-          " ingredients": [" potatoes","tomato juice", " Boneless chicken breast", " cinnamon","smoked paprika" ]
+          "ingredients": [" potatoes","tomato juice", " Boneless chicken breast", " cinnamon","smoked paprika" ]
         },
         {
           "id": 3,
-          "chef-name": "Salt Bae",
-          "recipes-name": "CZNBURAK ",
+          "chef_name": "Salt Bae",
+          "recipes_name": "CZNBURAK ",
           "experience_years": 8,
           "recipes_numbers": 75,
           "rating": 4.3,
           "likes": 1153 ,
           "photo_url": "https://menu.cznburak.com/img/menu_items/menu_item_977316.jpg",
           "cooking":["Stir frying or pan frying  ", "moist heat cooking", "combination cooking", "Frying"],
-          " ingredients": ["poppy seeds", " Coconut milk", "curry", "star anise","olive oil" ]
+          "ingredients": ["poppy seeds", " Coconut milk", "curry", "star anise","olive oil" ]
          
         }
 
@@ -115,41 +115,41 @@
       "recipes" :[
         {
           "id": 1,
-          "chef-name": "Somer Sivrioğlu",
-          "recipes-name": "Kırmızı",
+          "chef_name": "Somer Sivrioğlu",
+          "recipes_name": "Kırmızı",
           "experience_years": 12,
           "recipes_numbers": 75,
           "rating": 4.5,
           "likes": 2000 ,
           "photo_url": "https://menu.cznburak.com/img/menu_items/menu_item_151443.jpg",
           "cooking":["dry heat cooking", "moist heat cooking", "combination cooking", "Frying"],
-          " ingredients": ["Avocado", "skinless chicken", "garam masala", "thai chili", " potatoes," ]
+          "ingredients": ["Avocado", "skinless chicken", "garam masala", "thai chili", " potatoes," ]
         
          
         },
         {
           "id": 2,
-          "chef-name": "Somer Sivrioğlu",
-          "recipes-name": "Mevsim",
+          "chef_name": "Somer Sivrioğlu",
+          "recipes_name": "Mevsim",
           "experience_years": 10,
           "recipes_numbers": 75,
           "rating": 4.4,
           "likes": 1640 ,
           "photo_url": "https://menu.cznburak.com/img/menu_items/menu_item_615431.jpg",
           "cooking":["Grilling", "Sautéing", "combination cooking", "Frying"],
-          " ingredients": [" potatoes","tomato juice", " Boneless chicken breast", " cinnamon","smoked paprika" ]
+          "ingredients": [" potatoes","tomato juice", " Boneless chicken breast", " cinnamon","smoked paprika" ]
         },
         {
           "id": 3,
-          "chef-name": "Somer Sivrioğlu",
-          "recipes-name": "CZNBURAK ",
+          "chef_name": "Somer Sivrioğlu",
+          "recipes_name": "CZNBURAK ",
           "experience_years": 8,
           "recipes_numbers": 75,
           "rating": 4.3,
           "likes": 1153 ,
           "photo_url": "https://menu.cznburak.com/img/menu_items/menu_item_977316.jpg",
           "cooking":["Stir frying or pan frying  ", "moist heat cooking", "combination cooking", "Frying"],
-          " ingredients": ["poppy seeds", " Coconut milk", "curry", "star anise","olive oil" ]
+          "ingredients": ["poppy seeds", " Coconut milk", "curry", "star anise","olive oil" ]
          
         }
 
@@ -167,41 +167,41 @@
       "recipes" :[
         {
           "id": 1,
-          "chef-name": "Aslhan Koruyan Sabani",
-          "recipes-name": "Kırmızı",
+          "chef_name": "Aslhan Koruyan Sabani",
+          "recipes_name": "Kırmızı",
           "experience_years": 12,
           "recipes_numbers": 75,
           "rating": 4.5,
           "likes": 2000 ,
           "photo_url": "https://menu.cznburak.com/img/menu_items/menu_item_151443.jpg",
           "cooking":["dry heat cooking", "moist heat cooking", "combination cooking", "Frying"],
-          " ingredients": ["Avocado", "skinless chicken", "garam masala", "thai chili", " potatoes," ]
+          "ingredients": ["Avocado", "skinless chicken", "garam masala", "thai chili", " potatoes," ]
         
          
         },
         {
           "id": 2,
-          "chef-name": "Aslhan Koruyan Sabani",
-          "recipes-name": "Mevsim",
+          "chef_name": "Aslhan Koruyan Sabani",
+          "recipes_name": "Mevsim",
           "experience_years": 10,
           "recipes_numbers": 75,
           "rating": 4.4,
           "likes": 1640 ,
           "photo_url": "https://menu.cznburak.com/img/menu_items/menu_item_615431.jpg",
           "cooking":["Grilling", "Sautéing", "combination cooking", "Frying"],
-          " ingredients": [" potatoes","tomato juice", " Boneless chicken breast", " cinnamon","smoked paprika" ]
+          "ingredients": [" potatoes","tomato juice", " Boneless chicken breast", " cinnamon","smoked paprika" ]
         },
         {
           "id": 3,
-          "chef-name": "Aslhan Koruyan Sabani",
-          "recipes-name": "CZNBURAK ",
+          "chef_name": "Aslhan Koruyan Sabani",
+          "recipes_name": "CZNBURAK ",
           "experience_years": 8,
           "recipes_numbers": 75,
           "rating": 4.3,
           "likes": 1153 ,
           "photo_url": "https://menu.cznburak.com/img/menu_items/menu_item_977316.jpg",
           "cooking":["Stir frying or pan frying  ", "moist heat cooking", "combination cooking", "Frying"],
-          " ingredients": ["poppy seeds", " Coconut milk", "curry", "star anise","olive oil" ]
+          "ingredients": ["poppy seeds", " Coconut milk", "curry", "star anise","olive oil" ]
          
         }
 
@@ -219,41 +219,41 @@
       "recipes" :[
         {
           "id": 1,
-          "chef-name": "Ali Güngörmüş",
-          "recipes-name": "Kırmızı",
+          "chef_name": "Ali Güngörmüş",
+          "recipes_name": "Kırmızı",
           "experience_years": 12,
           "recipes_numbers": 75,
           "rating": 4.5,
           "likes": 2000 ,
           "photo_url": "https://menu.cznburak.com/img/menu_items/menu_item_151443.jpg",
           "cooking":["dry heat cooking", "moist heat cooking", "combination cooking", "Frying"],
-          " ingredients": ["Avocado", "skinless chicken", "garam masala", "thai chili", " potatoes," ]
+          "ingredients": ["Avocado", "skinless chicken", "garam masala", "thai chili", " potatoes," ]
         
          
         },
         {
           "id": 2,
-          "chef-name": "Ali Güngörmüş",
-          "recipes-name": "Mevsim",
+          "chef_name": "Ali Güngörmüş",
+          "recipes_name": "Mevsim",
           "experience_years": 10,
           "recipes_numbers": 75,
           "rating": 4.4,
           "likes": 1640 ,
           "photo_url": "https://menu.cznburak.com/img/menu_items/menu_item_615431.jpg",
           "cooking":["Grilling", "Sautéing", "combination cooking", "Frying"],
-          " ingredients": [" potatoes","tomato juice", " Boneless chicken breast", " cinnamon","smoked paprika" ]
+          "ingredients": [" potatoes","tomato juice", " Boneless chicken breast", " cinnamon","smoked paprika" ]
         },
         {
           "id": 3,
-          "chef-name": "Ali Güngörmüş",
-          "recipes-name": "CZNBURAK ",
+          "chef_name": "Ali Güngörmüş",
+          "recipes_name": "CZNBURAK ",
           "experience_years": 8,
           "recipes_numbers": 75,
           "rating": 4.3,
           "likes": 1153 ,
           "photo_url": "https://menu.cznburak.com/img/menu_items/menu_item_977316.jpg",
           "cooking":["Stir frying or pan frying  ", "moist heat cooking", "combination cooking", "Frying"],
-          " ingredients": ["poppy seeds", " Coconut milk", "curry", "star anise","olive oil" ]
+          "ingredients": ["poppy seeds", " Coconut milk", "curry", "star anise","olive oil" ]
          
         }
 
@@ -270,41 +270,41 @@
       "recipes" :[
         {
           "id": 1,
-          "chef-name": "Arda Türkmen",
-          "recipes-name": "Kırmızı",
+          "chef_name": "Arda Türkmen",
+          "recipes_name": "Kırmızı",
           "experience_years": 12,
           "recipes_numbers": 75,
           "rating": 4.5,
           "likes": 2000 ,
           "photo_url": "https://menu.cznburak.com/img/menu_items/menu_item_151443.jpg",
           "cooking":["dry heat cooking", "moist heat cooking", "combination cooking", "Frying"],
-          " ingredients": ["Avocado", "skinless chicken", "garam masala", "thai chili", " potatoes," ]
+          "ingredients": ["Avocado", "skinless chicken", "garam masala", "thai chili", " potatoes," ]
         
          
         },
         {
           "id": 2,
-          "chef-name": "Arda Türkmen",
-          "recipes-name": "Mevsim",
+          "chef_name": "Arda Türkmen",
+          "recipes_name": "Mevsim",
           "experience_years": 10,
           "recipes_numbers": 75,
           "rating": 4.4,
           "likes": 1640 ,
           "photo_url": "https://menu.cznburak.com/img/menu_items/menu_item_615431.jpg",
           "cooking":["Grilling", "Sautéing", "combination cooking", "Frying"],
-          " ingredients": [" potatoes","tomato juice", " Boneless chicken breast", " cinnamon","smoked paprika" ]
+          "ingredients": [" potatoes","tomato juice", " Boneless chicken breast", " cinnamon","smoked paprika" ]
         },
         {
           "id": 3,
-          "chef-name": "Arda Türkmen",
-          "recipes-name": "CZNBURAK ",
+          "chef_name": "Arda Türkmen",
+          "recipes_name": "CZNBURAK ",
           "experience_years": 8,
           "recipes_numbers": 75,
           "rating": 4.3,
           "likes": 1153 ,
           "photo_url": "https://menu.cznburak.com/img/menu_items/menu_item_977316.jpg",
           "cooking":["Stir frying or pan frying  ", "moist heat cooking", "combination cooking", "Frying"],
-          " ingredients": ["poppy seeds", " Coconut milk", "curry", "star anise","olive oil" ]
+          "ingredients": ["poppy seeds", " Coconut milk", "curry", "star anise","olive oil" ]
          
         }
 
